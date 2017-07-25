@@ -1,2 +1,2 @@
 # colormap_writer
-python seaborn colormaps to JSON file
+python-seaborn palettes to JSON file
