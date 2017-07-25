@@ -32,7 +32,7 @@ colormaps_json = json.dumps(colormaps)
 
 
 print("Writing colormaps")
-with open("colormaps", 'w') as f:
+with open("colormaps.json", 'w') as f:
     f.write(colormaps_json)
 
 
